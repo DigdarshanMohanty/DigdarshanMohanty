@@ -1,4 +1,4 @@
-# What am i doing here?:
+# What am i doing here? 
 Engineering student focused on backend development and system design.<br>Building APIs, authentication systems, and data-driven applications.<br>Continuously improving problem-solving and core CS fundamentals.<br>
 
 
